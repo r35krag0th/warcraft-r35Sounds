@@ -1,0 +1,9 @@
+## Interface: 40000
+## Title: |cff90d12er35|cffebe5dd/|cffbcbec7Sounds
+## Notes: Provides more sounds via LSM
+## Version: 1.0.0
+## Author: r35
+
+libs\LibSharedMedia-3.0\lib.xml
+
+LoadMe.lua
