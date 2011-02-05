@@ -9,5 +9,5 @@ LSM:Register("sound", "r35 Appear",         [[Interface\Addons\r35Sounds\media\a
 LSM:Register("sound", "r35 Button Press 3", [[Interface\Addons\r35Sounds\media\buttonPress3.mp3]])
 LSM:Register("sound", "r35 Button Press 4", [[Interface\Addons\r35Sounds\media\buttonPress4.mp3]])
 LSM:Register("sound", "r35 Indian Bell",    [[Interface\Addons\r35Sounds\media\indianBell.mp3]])
-LSM:Register("sound", "r35 powerUp", [[Interface\Addons\r35Sounds\media\powerUp.mp3]])
-LSM:Register("sound", "r35 robotBlip", [[Interface\Addons\r35Sounds\media\robotBlip.mp3]])
+LSM:Register("sound", "r35 powerUp",        [[Interface\Addons\r35Sounds\media\powerUp.mp3]])
+LSM:Register("sound", "r35 robotBlip",      [[Interface\Addons\r35Sounds\media\robotBlip.mp3]])
