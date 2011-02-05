@@ -4,6 +4,8 @@
 ## Version: 1.0.0
 ## Author: r35
 
+libs\LibSharedMedia-3.0\LibStub\LibStub.lua
+libs\LibSharedMedia-3.0\CallbackHandler-1.0\CallbackHandler-1.0.lua
 libs\LibSharedMedia-3.0\lib.xml
 
 LoadMe.lua
