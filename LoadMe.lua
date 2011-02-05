@@ -2,7 +2,7 @@
 -- Extra sounds I like for alerts.  Mostly for my PowerAuras.
 --
 
-local lsm = LibStub("LibSharedMedia-3.0")
+local LSM = LibStub("LibSharedMedia-3.0")
 
 LSM:Register("sound", "r35 Train",          [[Interface\Addons\r35Sounds\media\train1.mp3]])
 LSM:Register("sound", "r35 Appear",         [[Interface\Addons\r35Sounds\media\appear.mp3]])
